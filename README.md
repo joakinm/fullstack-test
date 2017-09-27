@@ -4,7 +4,7 @@ We would like you to write a mobile­based web app with a php backend. Below is 
 * * * * * * * * *
 _**IMPORTANT NOTE:**_ We appreciate when the tests really work, **but** we will focus our evaluation more on **object oriented design, style, separation of concerns, usage of tools...** 
 
-Try to show us what you you're capable of, even if the test could be solved in a more simple way
+Try to show us what you're capable of, even if the test could be solved in a more simple way
  * * * * * * * * *
 
 # Acceptance Criteria
