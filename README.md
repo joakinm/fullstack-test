@@ -25,11 +25,11 @@ even if the user returns to the home page.
 the profile page.
 
 ## Other:
-- Libraries are ok, but please don't use any frontend frameworks (angular, ember, react).
+- For the frontend, libraries and frameworks are ok (angular, ember, react, etc).
 - Please don't use any automatic code generation.
 - Closing the app window should close the session.
-- Remember this is a mobile­based web­app, so we would like to be compatible with major
-browsers (Safari, Chrome, Firefox, Opera).
+- Remember this is a mobile-based webapp, so we would like to be compatible with major
+browsers (Safari, Chrome, Firefox, Opera). At the same time, we want this works on desktop as well.
 - The backend API should be done in PHP, you can use a library or framework for the API routing but not for anything else.
 - There is no definition for the API just that it has to be RESTful.
 - For the DB you can implement an in-memory storage (for example saving the data into an array) but it has to be prepared to change to other DB systems.
