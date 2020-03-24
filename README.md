@@ -24,8 +24,12 @@ even if the user returns to the home page.
 - When the user clicks the avatar on the chat page, or the back button, he should go to
 the profile page.
 
+## SPA:
+- This application should be a Single Page Application, such that the user-facing routing
+is handled by the frontend and transitions between pages do not trigger a browser page refresh
+
 ## Other:
-- For the frontend, libraries and frameworks are ok (angular, ember, react, etc).
+- For the frontend, you may use Vue.js.
 - Please don't use any automatic code generation.
 - Closing the app window should close the session.
 - Remember this is a mobile-based webapp, so we would like to be compatible with major
